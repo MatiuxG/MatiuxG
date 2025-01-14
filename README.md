@@ -31,5 +31,5 @@ Passionate about video game development, software engineering, and creating expe
 - ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
 📧 **Contact Me:**
-- [LinkedIn]([#](https://www.linkedin.com/in/mateo-galvis-guayana/))
-- [Email](mailto:mateogalvisgamedev@gmail.com.com)
+- [LinkedIn]((https://www.linkedin.com/in/mateo-galvis-guayana/))
+- [Email](mailto:mateogalvisgamedev@gmail.com)
