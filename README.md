@@ -29,7 +29,6 @@ Passionate about video game development, software engineering, and creating expe
 - ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 - ![Unity VR](https://img.shields.io/badge/-Unity%20VR-000000?style=flat-square&logo=unity&logoColor=white)
 - ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 📧 **Contact Me:**
 - [LinkedIn]([#](https://www.linkedin.com/in/mateo-galvis-guayana/))
