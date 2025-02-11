@@ -4,6 +4,7 @@ Passionate about video game development, software engineering, and creating expe
 
 🎮 **Currently working on:**
 - **KeyboardRunner**: An educational arcade video game developed in Unity to improve your typing skills while enjoying an exciting adventure. 🌟
+- **FPS**: A first-person shooter inspired by games like Doom and Ultrakill. 🔫
 
 🌱 **Currently learning:**
 - Unreal Engine to expand my game development skills and explore new possibilities in interactive design.
